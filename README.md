@@ -1,4 +1,4 @@
-![me_coding]([https://github.com/user-attachments/assets/43948b37-5b0d-4762-953d-ccfbb18c46d0](https://github.com/Mazdaratti/Mazdaratti/blob/main/Cloud%20Ingineering.webp))
+![me_coding](https://github.com/Mazdaratti/Mazdaratti/blob/main/Cloud%20Ingineering.webp)
 # Hi there! I'm Andriy
 
 - 🤓 I’m currently learning Software Engineering at a Bootcamp!
