@@ -3,7 +3,7 @@
 
 - 🤓 I’m currently learning Software Engineering at a Bootcamp!
 - 🔧 My focus is on Python, OOP, Flask and Databases.
-- 🚀 Up next: Cloud Engineering.
+- 🚀 Currently in Roll Based Learning: Cloud Engineering.
 - 📚 Passionate about building practical, real-world applications and expanding my coding skills. 
 
 
