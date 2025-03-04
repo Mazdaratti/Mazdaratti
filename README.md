@@ -22,12 +22,12 @@ Let's connect and inspire each other!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" width="400px"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="360px"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="400px"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazdaratti&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="360px"></img>
 </p>
 
 
 
 
 
-## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
+## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Mazdaratti.visitor-badge&format=true)
