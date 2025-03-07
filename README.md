@@ -23,7 +23,7 @@ Let's connect and inspire each other!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="400px"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="360px"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="400px"></img>
 </p>
 
 
