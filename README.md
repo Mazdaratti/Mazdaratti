@@ -26,8 +26,8 @@ Let's connect and inspire each other!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache=1" width="400px"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache=1" width="360px"></img>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&hide=discussions">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game,dotfiles">
 </p>
 
 ## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
