@@ -31,4 +31,6 @@ Let's connect and inspire each other!
   <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false">
 </p>
 
+
+
 ## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
