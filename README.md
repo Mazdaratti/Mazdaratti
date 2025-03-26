@@ -18,6 +18,10 @@ Let's connect and inspire each other!
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
 
 ## 📊 GitHub Stats
 
