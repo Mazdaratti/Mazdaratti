@@ -26,9 +26,9 @@ Let's connect and inspire each other!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=11">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game&disable_animations=false&v=11,dotfiles">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false&v11">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game&disable_animations=false,dotfiles">
+  <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false">
 </p>
 
 ## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
