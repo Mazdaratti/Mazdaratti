@@ -35,4 +35,4 @@ Let's connect and inspire each other!
 
 
 
-## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
+## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&)
