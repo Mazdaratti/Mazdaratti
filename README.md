@@ -25,7 +25,8 @@ Let's connect and inspire each other!
 
 ## 📊 GitHub Stats
 
-![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&column=-1&margin-w=5&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&type=rank)
+![](https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-bg=true&no-frame=true&margin-w=5)
+
 
 
 <p align="center">
