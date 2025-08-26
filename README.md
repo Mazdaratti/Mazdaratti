@@ -25,13 +25,14 @@ Let's connect and inspire each other!
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark)
-<!-- Fork by lucthienphong1120 -->
-![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6)
+![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark)
 
-<!-- Fork by screw-hand 
-![](https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6)
+<!-- Fork by lucthienphong1120 
+![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6)
 -->
+<!-- Fork by screw-hand -->
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6)
+
 
 
 
