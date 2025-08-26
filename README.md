@@ -25,13 +25,17 @@ Let's connect and inspire each other!
 
 ## 📊 GitHub Stats
 ![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark)
+![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&column=-1&margin-w=5&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&type=rank)
+
 
 <p align="center">
   <!--
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=falsev=11">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game&disable_animations=false&v=11,dotfiles">
-  -->
+
+  
   <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false&v=11">
+  -->
   
 </p>
 
