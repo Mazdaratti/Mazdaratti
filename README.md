@@ -24,7 +24,7 @@ Let's connect and inspire each other!
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
 
 ## 📊 GitHub Stats
-![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark)
+
 ![](https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&column=-1&margin-w=5&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&type=rank)
 
 
