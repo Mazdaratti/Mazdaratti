@@ -15,10 +15,16 @@
 
 
 ## 📫 Let's Connect
-Check out my [**portfolio**](https://github.com/mazdaratti?tab=repositories) as well. 
-Let's connect and inspire each other!
 
-Let's connect and inspire each other!
+Check out my [**portfolio**](https://github.com/mazdaratti?tab=repositories) and recent projects.  
+
+Feel free to connect with me:  
+
+- [GitHub](https://github.com/mazdaratti)  
+- [LinkedIn](https://www.linkedin.com/in/andriy-bulashov/)   
+
+Let's inspire each other and build cool things together! 🚀
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
