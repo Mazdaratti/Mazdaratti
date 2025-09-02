@@ -1,4 +1,5 @@
-![me_coding](https://github.com/Mazdaratti/Mazdaratti/blob/main/Cloud%20Ingineering.webp)
+<!--![me_coding](https://github.com/Mazdaratti/Mazdaratti/blob/main/Cloud%20Ingineering.webp)
+-->
 
 # Hi there! I'm Andriy
 
