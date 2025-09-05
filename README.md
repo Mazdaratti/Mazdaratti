@@ -1,9 +1,16 @@
-<!--![me_coding](https://github.com/Mazdaratti/Mazdaratti/blob/main/Cloud%20Ingineering.webp)
--->
+<div align="center">
 
 # Hi there! I'm Andriy
 
+</div>
+
+---
+
+<div align="center">
+
 ### 📌 My Journey
+
+</div>
 
 - 🟢 **2024** – Started my Software Engineering journey at a Bootcamp, focusing on **Python, OOP, Flask, and Databases**.  
 - 🚀 **2025** – Completed the **Cloud Engineering track** based on AWS.  
@@ -13,7 +20,11 @@
 - 🔐 **2025** – Began my internship as a **DevSecOps Engineer**, gaining hands-on experience with cloud, automation, and security.  
 - 📚 **Ongoing** – Passionate about building practical, real-world applications and continuously expanding my skills.  
 
+</div>
 
+---
+
+<div align="center">
 
 ## 📫 Let's Connect
 
@@ -21,45 +32,84 @@ Check out my [**portfolio**](https://github.com/mazdaratti?tab=repositories) and
 
 Feel free to connect with me:  
 
-- [GitHub](https://github.com/mazdaratti)  
-- [LinkedIn](https://www.linkedin.com/in/andriy-bulashov/)   
+[GitHub](https://github.com/mazdaratti) • [LinkedIn](https://www.linkedin.com/in/andriy-bulashov/)  
 
-Let's inspire each other and build cool things together! 🚀
+Let's inspire each other and build cool things together! 🚀  
+
+</div>
+
+---
 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white)
-![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-[![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white)  ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  [![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
 
+
+---
+
+<div align="center">
+<h2 align="center">🌟 Profile Summary 🌟</h2>
+<br>
+
+  ![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&theme=dark)
+</div>
+
+
+<hr>
+
+<div align="center">
+<h2 align="center">💻 Top Language & Commit stats 💻</h2>
+<br>
+
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazdaratti&theme=dark)
+  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mazdaratti&theme=dark)
+</div>
+
+<div align="center">
+<br>
+
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mazdaratti&theme=dark)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mazdaratti&theme=dark&utcOffset=8)
+</div>
+
+
+
+<hr>
+
+<div align="center">
+<h3 align="center">🏆 Github Trophy 🏆</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti" alt="mazdaratti" /></a> </p>
+</div>
+
+
+
+<hr>
+
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
+-->
 <!-- Fork by screw-hand 
 ![](https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6)
 -->
-
-
 
 <p align="center">
   <!--
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=falsev=11">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game&disable_animations=false&v=11,dotfiles">
 
-  
   <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false&v=11">
   -->
-  
 </p>
 
+---
 
+<div align="center">
 
-## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
+## Thank you for visiting my profile! 🌟  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
+
+</div>
+
