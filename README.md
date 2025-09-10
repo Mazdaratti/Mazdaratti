@@ -88,15 +88,6 @@ Let's inspire each other and build cool things together! 🚀
 
 <hr>
 
-<div align="center">
-<h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&cache_bust=1" alt="mazdaratti" /></a> </p>
-</div>
-
-
-
-<hr>
-
 <!--
 ## 📊 GitHub Stats
 
