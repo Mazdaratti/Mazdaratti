@@ -49,7 +49,7 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
 
-  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&theme=dark&cache_bust=1)
+  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&theme=dark&cache_bust=15)
 </div>
 
 
@@ -59,15 +59,15 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">💻 Top Language & Commit stats 💻</h2>
 <br>
 
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&theme=dark&cache_bust=1)
-  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazdaratti&theme=dark&cache_bust=1)
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&theme=dark&cache_bust=15)
+  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazdaratti&theme=dark&cache_bust=15)
 </div>
 
 <div align="center">
 <br>
 
-  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazdaratti&theme=dark&cache_bust=1)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&theme=dark&utcOffset=8&cache_bust=1)
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazdaratti&theme=dark&cache_bust=15)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&theme=dark&utcOffset=8&cache_bust=15)
 </div>
 
 <div align="center">
@@ -75,7 +75,7 @@ Let's inspire each other and build cool things together! 🚀
 <br>
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&theme=dark&cache_bust=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&theme=dark&cache_bust=15)
 </div>
 
 <hr>
