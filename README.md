@@ -70,7 +70,12 @@ Let's inspire each other and build cool things together! 🚀
   ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mazdaratti&theme=dark&utcOffset=8&cache_bust=1)
 </div>
 
+<div align="center">
+<h2 align="center">🔥 Streak Stats 🔥</h2>
+<br>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mazdaratti&theme=dark)
+</div>
 
 <hr>
 
