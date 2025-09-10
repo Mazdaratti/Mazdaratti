@@ -59,31 +59,30 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">💻 Top Language & Commit stats 💻</h2>
 <br>
 
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazdaratti&theme=dark&cache_bust=1)
-  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mazdaratti&theme=dark&cache_bust=1)
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&theme=dark&cache_bust=1)
+  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazdaratti&theme=dark&cache_bust=1)
 </div>
 
 <div align="center">
 <br>
 
-  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mazdaratti&theme=dark&cache_bust=1)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mazdaratti&theme=dark&utcOffset=8&cache_bust=1)
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazdaratti&theme=dark&cache_bust=1)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&theme=dark&utcOffset=8&cache_bust=1)
 </div>
 
 <div align="center">
-<h2 align="center">💻 GitHub Stats 💻</h2>
+<h2 align="center">🔥 Streak Stats 🔥</h2>
 <br>
 
-![Andriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazdaratti&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazdaratti&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mazdaratti&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&theme=dark&cache_bust=1)
 </div>
 
 <hr>
 
 <div align="center">
 <h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&rank=-C&margin-w=15&no-bg=true&no-frame=true" alt="mazdaratti" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&rank=-C&margin-w=15&no-bg=true&no-frame=true&cache_bust=1" alt="mazdaratti" /></a> </p>
 </div>
 
 <hr>
