@@ -49,7 +49,7 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
 
-  ![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&theme=dark)
+  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&theme=dark)
 </div>
 
 
