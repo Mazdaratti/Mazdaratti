@@ -70,8 +70,8 @@ Let's inspire each other and build cool things together! 🚀
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=15" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=15" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15" height="160" />
 </div>
 
 <hr>
