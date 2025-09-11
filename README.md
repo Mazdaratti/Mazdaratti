@@ -49,27 +49,36 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
 
-  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
+  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
 </div>
 
+<hr>
+<div align="center">
+
+<br>
+
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&v=15)
+</div>
+
+<div align="center">
+<br>
+  
+  ![Cards stats](https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=15)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
+  
+</div>
 
 <hr>
 
 <div align="center">
-<h2 align="center">💻 Top Language & Commit stats 💻</h2>
-<br>
-
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
-  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
+<h2 align="center">🏆 Github Trophy 🏆</h2>  
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=mazdaratti&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
-<div align="center">
-<br>
-
-  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&cache_bust=15)
-</div>
-
+<hr>
+  
+<!--
 <div align="center">
 <h2 align="center">🔥 Streak Stats 🔥</h2>
 <br>
@@ -77,21 +86,15 @@ Let's inspire each other and build cool things together! 🚀
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
 </div>
+-->
 
-<hr>
-
-<div align="center">
-<h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&rank=-C&margin-w=15&no-bg=true&no-frame=true&cache_bust=1" alt="mazdaratti" /></a> </p>
-</div>
-
-<hr>
 
 <!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=mazdaratti&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-trophies.vercel.app/?username=mazdaratti&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&rank=-C&margin-w=15&no-bg=true&no-frame=true&cache_bust=1" alt="mazdaratti" /></a> </p>
 </p>
 -->
 <!-- Fork by screw-hand 
@@ -104,6 +107,7 @@ Let's inspire each other and build cool things together! 🚀
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game&disable_animations=false&v=11,dotfiles">
 
   <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false&v=11">
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
   -->
 </p>
 
