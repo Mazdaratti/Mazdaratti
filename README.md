@@ -49,28 +49,28 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
 
-  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
+  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=9)
 </div>
 
 <hr>
 <div align="center">
   
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&v=15)
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=9)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&v=9)
   
 </div>
 
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=15" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=9" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=9" height="160" />
 </div>
 
 <hr>
 
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2>  
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=mazdaratti&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=mazdaratti&count_private=true&include_all_commits=true&v=9&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 <hr>
