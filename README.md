@@ -1,14 +1,12 @@
-<div align="center">
-
-# Hi there! I'm Andriy
-
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi there...+!+👋;+I+am+Andriy!;" />
+</h1>
 
 ---
 
 <div align="center">
 
-### 📌 My Journey
+<h2 align="center">📌 My Journey 📢</h2>
 
 </div>
 
@@ -49,86 +47,28 @@ Let's inspire each other and build cool things together! 🚀
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
 
-  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=9)
-</div>
-
-<hr>
-<div align="center">
   
   ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=1&v=9)
   ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&cache_bust=1&v=9)
   
 </div>
-<hr>
 
 <div align="center">
-  <div style="display:flex; justify-content:center; gap:10px; align-items:flex-start;">
-    <img 
-      src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=dark&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&hide=discussions,issues&disable_animations=false" 
-      style="height:160px;" />
-    <img 
-      src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=1&v=9" 
-      style="height:160px;" />
-  </div>
+  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=dark&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&hide=discussions&disable_animations=false&card_width=340&hide_rank=true&line_height=26&text_bold=false">
+  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&hide_border=true&card_width=340&card_height=200">
+
 </div>
-
 <hr>
 
+
 <div align="center">
-<h2 align="center">🏆 Github Trophy 🏆</h2>  
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=mazdaratti&count_private=true&include_all_commits=true&v=9&cache_bust=1&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<h2 align="center">🏆 Github Trophy 🏆</h2> 
+
+<p align="center"> <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=juicyfresh&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&v=11" />
 </div>
 
 <hr>
 
-
-
-
-
- 
-<!--
-<div align="center">
-<h2 align="center">🔥 Streak Stats 🔥</h2>
-<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
-</div>
-
-<div align="center">
-<br>
-  
-  ![Cards stats](https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=15)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
-  ![GitHub Stats](https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=dark&count_private=true&hide_title=true&show_icons=true&hide_border=true&layout=compact&hide=discussions,issues&disable_animations=false)
-  
-</div>
-
--->
-
-
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=mazdaratti&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&cache_bust=1&v=9" height="160" />
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&rank=-C&margin-w=15&no-bg=true&no-frame=true&cache_bust=1" alt="mazdaratti" /></a> </p>
-</p>
--->
-<!-- Fork by screw-hand 
-![](https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=onedark&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6)
--->
-
-<p align="center">
-  <!--
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=falsev=11">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazdaratti&theme=github_dark_dimmed&layout=compact&langs_count=8&hide_border=true&exclude_repo=AI-RPG-Game&disable_animations=false&v=11,dotfiles">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=5&disable_animations=false&v=11">
-  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
-  -->
-</p>
-
----
 
 <div align="center">
 
@@ -136,4 +76,5 @@ Let's inspire each other and build cool things together! 🚀
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
 
 </div>
+
 
