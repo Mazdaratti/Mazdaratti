@@ -73,6 +73,7 @@ Let's inspire each other and build cool things together! 🚀
 <div align="center">
 
 ## Thank you for visiting my profile! 🌟  
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mazdaratti.visitor-badge&format=true)
 
 </div>
