@@ -60,6 +60,7 @@ Let's inspire each other and build cool things together! 🚀
   
 </div>
 <hr>
+
 <div align="center">
   <div style="display:flex; justify-content:center; gap:10px; align-items:flex-start;">
     <img 
@@ -70,6 +71,7 @@ Let's inspire each other and build cool things together! 🚀
       style="height:160px;" />
   </div>
 </div>
+
 <hr>
 
 <div align="center">
