@@ -59,13 +59,17 @@ Let's inspire each other and build cool things together! 🚀
   ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&cache_bust=1&v=9)
   
 </div>
-
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&cache_bust=1&v=9" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=1&v=9" height="160" />
+  <div style="display:flex; justify-content:center; gap:10px; align-items:flex-start;">
+    <img 
+      src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=dark&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&hide=discussions,issues&disable_animations=false" 
+      style="height:160px;" />
+    <img 
+      src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=1&v=9" 
+      style="height:160px;" />
+  </div>
 </div>
-
 <hr>
 
 <div align="center">
@@ -74,13 +78,16 @@ Let's inspire each other and build cool things together! 🚀
 </div>
 
 <hr>
-  
+
+
+
+
+
+ 
 <!--
 <div align="center">
 <h2 align="center">🔥 Streak Stats 🔥</h2>
 <br>
-
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=15)
 </div>
 
@@ -89,6 +96,7 @@ Let's inspire each other and build cool things together! 🚀
   
   ![Cards stats](https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&v=15)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&v=15)
+  ![GitHub Stats](https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=dark&count_private=true&hide_title=true&show_icons=true&hide_border=true&layout=compact&hide=discussions,issues&disable_animations=false)
   
 </div>
 
@@ -100,6 +108,7 @@ Let's inspire each other and build cool things together! 🚀
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=mazdaratti&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazdaratti&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=discussions&disable_animations=false&cache_bust=1&v=9" height="160" />
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazdaratti&rank=-C&margin-w=15&no-bg=true&no-frame=true&cache_bust=1" alt="mazdaratti" /></a> </p>
 </p>
 -->
