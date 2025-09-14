@@ -48,14 +48,16 @@ Let's inspire each other and build cool things together! 🚀
 <br>
 
   
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&cache_bust=1&v=9)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=dark&utcOffset=8&cache_bust=1&v=9&hide_border=true)
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=github_dark&cache_bust=1&v=9)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9&hide_border=true)
   
 </div>
 
+<hr>
+
 <div align="center">
-  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=dark&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&hide=discussions&disable_animations=false&card_width=340&hide_rank=true&line_height=26&text_bold=false">
-  <img src="https://streak-stats.demolab.com/?user=mazdaratti&count_private=true&include_all_commits=true&theme=dark&hide_border=true&card_width=340&card_height=200">
+  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true&show=prs_merged&line_height=26&disable_animations=false&card_width=340&hide_rank=true&line_height=26&text_bold=false">
+  <img src="https://streak-stats.demolab.com?user=mazdaratti&theme=github-dark&hide_border=true&card_width=339&card_height=197">
 
 </div>
 <hr>
