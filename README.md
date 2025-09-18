@@ -57,7 +57,7 @@ Let's inspire each other and build cool things together! 🚀
 
 <div align="center">
   <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true&show=prs_merged&line_height=26&disable_animations=false&card_width=340&hide_rank=true&line_height=26&text_bold=false">
-    
+
   <img src="https://streak-stats.demolab.com?user=mazdaratti&theme=github-dark&hide_border=true&card_width=339&card_height=197">
 
 </div>
