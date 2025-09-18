@@ -56,7 +56,7 @@ Let's inspire each other and build cool things together! 🚀
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true&show=prs_merged&line_height=26&disable_animations=false&card_width=340&hide_rank=true&line_height=26&text_bold=false">
+  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=mazdaratti&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true&show=prs_merged&line_height=26&disable_animations=false&card_width=340&hide_rank=true&line_height=26&text_bold=false&cashe=1">
 
   <img src="https://streak-stats.demolab.com?user=mazdaratti&theme=github-dark&hide_border=true&card_width=339&card_height=197">
 
@@ -66,7 +66,7 @@ Let's inspire each other and build cool things together! 🚀
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2> 
 
-<p align="center"> <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=juicyfresh&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&count_private=true&include_all_commits=true&v=11" />
+<p align="center"> <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=juicyfresh&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&count_private=true&include_all_commits=true&cashe=1" />
 </div>
 
 <hr>
