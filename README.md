@@ -15,7 +15,8 @@
 - 🎓 **2025** – Earned certifications:  
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" height="20"/>  
   <img src="https://img.shields.io/badge/Terraform%20Associate-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate" height="20"/>  
-- 🔐 **2025** – Began my internship as a **DevSecOps Engineer**, gaining hands-on experience with cloud, automation, and security.  
+- 🔐 **2025** – Completed a 2-month internship as a **DevSecOps Engineer**, gaining hands-on experience with cloud, automation, and security.
+- ☁️ **2025** – Preparing to pursue the <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect" height="20"/> **certification**    
 - 📚 **Ongoing** – Passionate about building practical, real-world applications and continuously expanding my skills.  
 
 </div>
