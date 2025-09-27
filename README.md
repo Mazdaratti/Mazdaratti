@@ -38,7 +38,9 @@ Let's inspire each other and build cool things together! 🚀
 <div align="center">
 
 ## 🛠️ Tech Toolbox
-**Languages:**  
+---
+**Languages:** 
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
@@ -52,7 +54,8 @@ Let's inspire each other and build cool things together! 🚀
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Cloud & DevOps:**  
+**Cloud & DevOps:**
+
 [![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com) 
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -60,12 +63,14 @@ Let's inspire each other and build cool things together! 🚀
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 
 **Testing & Automation:**
+
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) 
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white)
 ![Terratest](https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white) 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-**Tools:**  
+**Tools:** 
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
