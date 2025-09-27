@@ -103,7 +103,7 @@ Let's inspire each other and build cool things together! 🚀
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2> 
 
-<p align="center"> <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=juicyfresh&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&count_private=true&include_all_commits=true&cashe=1" />
+<p align="center"> <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mazdaratti&theme=juicyfresh&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&count_private=true&include_all_commits=true" />
 </div>
 
 <hr>
