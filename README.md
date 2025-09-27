@@ -78,7 +78,6 @@ Let's inspire each other and build cool things together! 🚀
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 </div>
----
 
 <div align="center">
 <h2 align="center">🌟 Profile Summary 🌟</h2>
