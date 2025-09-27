@@ -79,6 +79,8 @@ Let's inspire each other and build cool things together! 🚀
 
 </div>
 
+---
+
 <div align="center">
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
