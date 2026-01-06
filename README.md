@@ -79,6 +79,9 @@ Let's inspire each other and build cool things together! 🚀
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+[![n8n](https://img.shields.io/badge/-n8n-F05A28?style=flat&logo=n8n&logoColor=white)](https://n8n.io)
+[![Tally](https://img.shields.io/badge/-Tally.so-000000?style=flat&logo=tally&logoColor=white)](https://tally.so)
+
 
 </div>
 
