@@ -94,8 +94,8 @@ Let's inspire each other and build cool things together! 🚀
 <br>
 
   
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=github_dark&cache_bust=1&v=9)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9&hide_border=true)
+  ![Top language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazdaratti&count_private=true&include_all_commits=true&theme=github_dark&cache_bust=1&v=9)
+  ![Commit stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazdaratti&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9&hide_border=true)
   
 </div>
 
