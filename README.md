@@ -81,7 +81,7 @@ Let's inspire each other and build cool things together! 🚀
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 [![n8n](https://img.shields.io/badge/-n8n-F05A28?style=flat&logo=n8n&logoColor=white)](https://n8n.io)
 [![Tally](https://img.shields.io/badge/-Tally.so-000000?style=flat&logo=tally&logoColor=white)](https://tally.so)
-[![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white)
+[![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white)]
 
 
 
